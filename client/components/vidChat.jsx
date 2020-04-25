@@ -1,5 +1,4 @@
 import React, { Component, useEffect } from 'react';
-import { render } from 'react-dom';
 
 const VidChat = (props) => {
     useEffect(async () => {
